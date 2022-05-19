@@ -8,4 +8,5 @@
 - 🎓 MBA in Software Engineering - Federal University of Technology – Paraná (UTFPR).
 - 📚 PSM I - Professional Scrum Master.
 - 📚 CLF-C01 - AWS Certified Cloud Practitioner.
-- 🌱 I’m currently learning Cloud Computing and Kafka.
+- 📚 SAA-C02 - AWS Certified Solutions Architect – Associate.
+- 🌱 I’m currently learning Ruby on Rails.
